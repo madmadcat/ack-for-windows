@@ -12,7 +12,7 @@ Grab the contents from the link, and overwrite the contents
 ack-standalone.pl with the new version.
 
 Finally, this presumes that you have Git installed, and it
-is at its default path. The Ack scripts will be added to
+is at its default path. The ack scripts will be added to
 the `C:\Program Files (x86)\Git\bin` or the
 `C:\Program Files\Git\bin` directory, depending on your
 version of Windows.
