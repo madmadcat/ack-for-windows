@@ -1,0 +1,1 @@
+@"C:\Program Files\Git\bin\perl" "C:\Program Files\Git\bin\ack-standalone.pl" %*
